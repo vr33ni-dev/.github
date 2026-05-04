@@ -12,14 +12,14 @@ This org is home to most of my projects, with shared secrets and Actions workflo
 | Project | Stack | Description |
 |---|---|---|
 | [Agent Portfolio Updater](https://github.com/vr33ni-dev/agent-portfolio-updater) | Python · LangGraph · Anthropic | Analyzes GitHub repos, generates multilingual portfolio cards, and opens PRs automatically |
-| [Morning Briefing Agent](https://github.com/vr33ni-dev/morning-briefing-agent) | Python · LangGraph · Anthropic | Gathers weather, surf, news, and quotes in parallel and synthesizes a daily briefing |
+| [Morning Briefing Agent](https://github.com/vr33ni-dev/agent-morning-briefing) | Python · LangGraph · Anthropic | Gathers weather, surf, news, and quotes in parallel and synthesizes a daily briefing |
 
 ### Full-Stack Apps
 | Project | Stack | Description |
 |---|---|---|
-| [Annalanah Sales Assistant](https://github.com/vr33ni-dev/annalanah) | React · Go · PostgreSQL · Anthropic | Sales lead and workshop management app with Claude-powered NLP search |
+| [Annalanah Sales Assistant](https://github.com/vr33ni-dev/annalanah-sales-assistant-react) | React · Go · PostgreSQL · Anthropic | Sales lead and workshop management app with Claude-powered NLP search |
 | [Eisbachtracker](https://github.com/vr33ni-dev/eisbachtracker) | Vue · Go · Flask · PostgreSQL | PWA tracking surfer activity at Munich's Eisbach wave, with ML-based crowd prediction |
-| [Rent and Repair Shop](https://github.com/vr33ni-dev/rent-repair-shop) | Flutter · Spring · PostgreSQL | Surfboard rental and repair shop management app |
+| [Rent and Repair Shop](https://github.com/vr33ni-dev/rent-and-repair-shop_flutter) | Flutter · Spring · PostgreSQL | Surfboard rental and repair shop management app |
 | [Webshop](https://github.com/vr33ni-dev/webshop-vuejs-spring) | Vue · Spring Boot · MongoDB · Docker | Full-stack e-commerce app with complete Docker containerization |
 
 ### Tools & Libraries
