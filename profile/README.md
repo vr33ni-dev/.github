@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Projects by [Verena Lechner](https://vr33ni.github.io/portfolio/) — full-stack web developer, currently based in El Salvador.
+Projects by [Verena Lechner](https://github.com/vr33ni) — full-stack web developer, currently based in El Salvador.
 
 This org is home to most of my projects, with shared secrets and Actions workflows managed at the org level, including automated GitLab sync across repos.
 
