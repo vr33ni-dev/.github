@@ -11,7 +11,7 @@ This org is home to most of my projects, with shared secrets and Actions workflo
 ### AI & Agents
 | Project | Stack | Description |
 |---|---|---|
-| [Agent Portfolio Updater](https://github.com/vr33ni-dev/portfolio-updater-agent) | Python · LangGraph · Anthropic | Analyzes GitHub repos, generates multilingual portfolio cards, and opens PRs automatically |
+| [Agent Portfolio Updater](https://github.com/vr33ni-dev/agent-portfolio-updater) | Python · LangGraph · Anthropic | Analyzes GitHub repos, generates multilingual portfolio cards, and opens PRs automatically |
 | [Morning Briefing Agent](https://github.com/vr33ni-dev/morning-briefing-agent) | Python · LangGraph · Anthropic | Gathers weather, surf, news, and quotes in parallel and synthesizes a daily briefing |
 
 ### Full-Stack Apps
