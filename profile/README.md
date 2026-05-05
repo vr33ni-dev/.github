@@ -11,6 +11,7 @@ This org is home to most of my projects, with shared secrets and Actions workflo
 ### AI & Agents
 | Project | Stack | Description |
 |---|---|---|
+| [Gmail Job Tracker](https://github.com/vr33ni-dev/gmail-job-tracker-ui) | React · TypeScript · Go · PostgreSQL · Anthropic Claude · Ollama | Full-stack app that syncs with Gmail to detect and track job applications using AI classification, with a Kanban board and analytics |
 | [Agent Portfolio Updater](https://github.com/vr33ni-dev/agent-portfolio-updater) | Python · LangGraph · Anthropic | Analyzes GitHub repos, generates multilingual portfolio cards, and opens PRs automatically |
 | [Morning Briefing Agent](https://github.com/vr33ni-dev/agent-morning-briefing) | Python · LangGraph · Anthropic | Gathers weather, surf, news, and quotes in parallel and synthesizes a daily briefing |
 
